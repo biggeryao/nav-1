@@ -31,7 +31,7 @@ body {
     }
     /* 设置 pc端  背景图片 */
     body{
-        background-image: url(images/nba.jpg);
+        background-color: #ddd;;
     }
     
 }
@@ -61,7 +61,7 @@ body {
     white-space: nowrap;
     padding: 0 25px;
     border: none;
-    border-radius: 4px;
+    border-radius: 15px;
     background-color: #0282b9;
     color: white;
     font-size: 16px;
